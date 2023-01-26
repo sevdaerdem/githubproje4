@@ -5,6 +5,8 @@ public class okul {
         System.out.println("selamlar");
         System.out.println("selamlar ben");
         System.out.println("geldik  ");
+        System.out.println("slm");
+
 
 
     }
